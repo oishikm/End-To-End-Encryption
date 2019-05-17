@@ -5,6 +5,7 @@ Version 1.0
 A client-server program to implement socket programming to satisfy my college microproject requirement.
 
 A server opens up 2 ports for 2 clients to communicate with each other.
+
 The clients use end-to-end encryption, so the server cannot understand their communicated data.
 
 3 batch files are provided to automate the following :
